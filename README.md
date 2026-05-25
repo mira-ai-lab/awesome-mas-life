@@ -2,7 +2,7 @@
 
 <img src="figs/logo.png" style="width: 100%;"/>
 
-## Beyond Individual Intelligence: A Systematic Review of Multi-agent Collaboration, Attribution and Evolution
+## Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems
 
 [![Awesome](https://img.shields.io/badge/Awesome-0066CC?style=for-the-badge&logo=awesome-lists&logoColor=white)](https://github.com/sindresorhus/awesome) [![Survey](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.14892) [![Github](https://img.shields.io/badge/Awesome--MAS--Evolution-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mira-ai-lab/Awesome_MAS_Evolution) [![HF Papers](https://img.shields.io/badge/HF--Paper-%23FFD14D?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/papers/2605.14892) 
 
