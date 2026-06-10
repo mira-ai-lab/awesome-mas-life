@@ -12,6 +12,7 @@
 ## 🎉 News
 
 - **[2026-04-15]** The repository for our survey is established!
+- **[2026-06-10]** Ma, Jie have uploaded a report on multi-agent systems. This is the presentation he gave at the CCKS conference in Yinchuan.
 
 <a id="citation"></a>
 ## 📌 Citation
